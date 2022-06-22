@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/21d3fbae-ce50-42ef-ac19-d4092650924e/microsoft.web/sites/subscriptions/21d3fbae-ce50-42ef-ac19-d4092650924e/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/xota-api-app",
+    "appService.deploySubpath": "publish"
+}
